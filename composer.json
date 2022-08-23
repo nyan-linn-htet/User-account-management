@@ -1,0 +1,18 @@
+{
+    "name": "nyan/project1",
+    "autoload": {
+        "psr-4": {
+            "Libs\\": "_classes/Libs/",
+            "Helpers\\": "_classes/Helpers/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Nyan Linn Htet",
+            "email": "nyanlinhtet2301@gmail.com"
+        }
+    ],
+    "require": {
+        "fakerphp/faker": "^1.19"
+    }
+}
